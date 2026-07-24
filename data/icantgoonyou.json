@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "i cant goon you",
+    "author": "MrDoodle2o",
+    "creators": ["MrDoodle2o"],
+    "verifier": "MrDoodle2o",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
