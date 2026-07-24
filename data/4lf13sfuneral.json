@@ -1,0 +1,36 @@
+{
+    "id": 57436521,
+    "name": "4lf13s funeral",
+    "author": "ToranDoesGaming",
+    "creators": ["ToranDoesGaming"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "BarneyDaHknDino",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 180
+        },
+           {
+            "user": "Mrdoodle2o",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
