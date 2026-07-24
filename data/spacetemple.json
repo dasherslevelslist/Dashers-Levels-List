@@ -1,0 +1,16 @@
+{
+    "id": 57436521,
+    "name": "space temple",
+    "author": "4lfi3",
+    "creators": ["4lfi3", "ToranDoesGaming"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {"user": "ToranDoesGaming",
+            "link": "https://youtu.be/hpU_ViLKpYg",
+            "percent": 100,
+            "hz": 144}
+    ]
+}
