@@ -1,0 +1,24 @@
+{
+    "id": 144984861,
+    "name": "be gone mr goon",
+    "author": "ToranDoesGaming",
+    "creators": ["ToranDoesGaming"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=ACpwdG69sz574Hes",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/ZvmHlvo11Rg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
