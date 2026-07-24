@@ -1,0 +1,36 @@
+{
+    "id": 57436521,
+    "name": "Clicker Marathon",
+    "author": "BarneyDaHknDino",
+    "creators": ["BarneydaHknDino"],
+    "verifier": "BarneydaHknDino",
+    "verification": "https://youtu.be/9jmGRkcPjXU",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "MrDoodle2o",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
