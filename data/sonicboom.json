@@ -1,0 +1,16 @@
+{
+    "id": 57436521,
+    "name": "sonic boom",
+    "author": "4lfi3",
+    "creators": ["ToranDoesGaming", "4lfi3"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+    "percentToQualify": "100",
+    "password": "Oklahoma",
+    "records": [
+        {"user": "ToranDoesGaming",
+            "link": "https://youtu.be/ARVde-V6EQ8",
+            "percent": 100,
+            "hz": 144}
+    ]
+}
