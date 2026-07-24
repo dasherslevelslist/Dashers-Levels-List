@@ -1,0 +1,30 @@
+{
+    "id": 141576166,
+    "name": "Clicker Marathon II",
+    "author": "BarneyDaHknDino",
+    "creators": ["BarneyDaHknDino"],
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+    "percentToQualify": 100,
+    "password": "Oklahoma",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/jW0PU5E7_ck?si=Nb9Sncx1RI547vgh",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
