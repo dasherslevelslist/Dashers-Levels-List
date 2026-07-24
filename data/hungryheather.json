@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "hungry heather",
+    "author": "4lfi3",
+    "creators": ["4lfi3"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/DmMfNtrsyWs",
+    "percentToQualify": "100",
+    "password": "Oklahoma",
+    "records": [
+                {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/1kgpj3V9Ls0",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
